@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+
+    <string name="retry">Retry</string>
+    <string name="loading_error">An error occurred while loading the Recipes</string>
+    <string name="search">Search</string>
+</resources>
